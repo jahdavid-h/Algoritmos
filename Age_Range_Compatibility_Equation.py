@@ -1,3 +1,7 @@
+'''
+Ecuacion de compatibilidad de rango de edad
+'''
+
 def rango_citas(edad):
     if edad <= 14:
         # Fórmula especial para edades <= 14
