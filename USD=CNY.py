@@ -1,3 +1,7 @@
+'''
+Covercion de moneda USD => CNY
+'''
+
 def convertir_usd_a_cny(usd):
     tasa_conversion = 6.75  # Ejemplo de tasa de conversión (actualízala según la tasa actual)
     cny = usd * tasa_conversion
