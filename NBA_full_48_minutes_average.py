@@ -1,3 +1,7 @@
+'''
+Promedio de puntos en la NBA
+'''
+
 def extrapolar_ppg(ppg, mpg):
     if mpg == 0:
         return 0
