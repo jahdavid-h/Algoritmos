@@ -1,3 +1,8 @@
+'''
+Recorte de relacion de aspecto
+'''
+
+
 import math
 
 def convert_to_16_9(x, y):
