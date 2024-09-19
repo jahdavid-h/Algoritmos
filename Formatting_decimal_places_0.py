@@ -1,3 +1,7 @@
+'''
+Formato de decimales
+'''
+
 def redondear_a_dos_decimales(numero):
     return round(numero, 2)
 
